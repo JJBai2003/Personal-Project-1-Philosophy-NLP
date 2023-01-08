@@ -12,5 +12,12 @@ With interests in these two fields, I wanted to develop an NLP model that can de
 
 ### Process
 
+#### Research
+As a beginner in the field, I did some research on past related projects for reference. Unfortunately, this interdisciplinary project is not very popular yet. But, I did find a great project by kcalizadeh, https://github.com/kcalizadeh/phil_nlp. I was able to learn a lot of the data cleaning and preparation steps from it. 
 
+#### Data Preparation
+I have done some basic cleaning and generated word clouds and frequency distributions for baseline checking. However, I ran into a **problem**: the texts are disproportionate. 
+
+Consequently, I am currently researching on different ways to handle this problem and the drawbacks for each solution. 
+(01/07/2022)
 
